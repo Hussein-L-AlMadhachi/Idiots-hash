@@ -26,5 +26,6 @@ licenses
 this is work of art where you are allowed to write worst and the most useless code ever and still get people to like it
 even thu it's full of bugs and unwanted behavior 
 
-this code was made with love and stupidity with worst coding practices 🤪
+this code was made with love and stupidity with worst coding practices 🤪 
+
 mainly in `idiots-hash.h`
