@@ -17,7 +17,6 @@
  *    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 **/
 
-#include <string.h>
 
 // Error handling codes
 #define  SUCCESS                   0xB0     // means function ran successfully
