@@ -52,7 +52,7 @@ typedef struct hash_table_structure
  *     allocate enough memory for the hash table
  *  
  *  Parameters:
- *     Hash * hash_table     the hash table that you hvae to allocate memory
+ *     Hash * hash_table     the hash table that you have to allocate memory
  *                           for
  *
  *     unsigned int size     
@@ -66,34 +66,7 @@ void alloc( Hash * hash_table , unsigned int size )
 }
 
 
-// hashing function
 
-/**
- *  	unsigned long int hash( unsigned char *key )
- *
- *  Description:
- *     the hash function used in this library which is DJB2
- *  
- *  Parameters:
- *     unsigned char * key    the key that will be tak
- *  
- *  Returns:
- *     the hash of the given key
- *  
- *
-unsigned long int hash( unsigned char * key )
-{
-	unsigned long int hash = 5381;
-
-	int c;
-
-	while (( c = *key++ ))
-	{
-		hash = ( (hash << 5) + hash ) + c;
-	}
-	return hash;
-}
-*/
 
 /**
  *  	char * get( Hash * hash_table , char * key );
