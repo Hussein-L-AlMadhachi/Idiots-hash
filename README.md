@@ -19,7 +19,7 @@ there is copy of it this repo
 
 but `idiots-hash.h` is in the public domian so we can all
 add some humour to our code and keep it under permisive
-licenses 🙃
+licenses
 
 
 # What is this project
