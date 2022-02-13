@@ -1,6 +1,6 @@
 # Idiots-hash
 
-World's Most stupid hash function written by man-kind :)
+Etremely stupid hash function written by man-kind :)
 
 It works sometimes really well thu 😆😆
 
