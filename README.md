@@ -20,15 +20,3 @@ sh compile.sh
 ```
 
 run the program with the executable file you get
-
-
-# Licensing
-
-All files not including `idiot-hash.h`
-are licensed under The general Public License version 3
-
-there is copy of it this repo
-
-but `idiots-hash.h` is in the public domian so we can all
-add some humour to our code and keep it under permisive
-licenses
